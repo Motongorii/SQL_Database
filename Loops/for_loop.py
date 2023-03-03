@@ -1,0 +1,9 @@
+friends = ["Kendi", "Ricky", "Maganta", "Lulu"]
+
+for i in friends:
+    print(i)
+
+
+numbers = [1,2,3,4,5,6,7,8,9,10]
+for num in numbers:
+    print(num)
